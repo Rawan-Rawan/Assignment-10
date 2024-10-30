@@ -14,8 +14,8 @@ public class Script : MonoBehaviour
       {
         int result= Multiply(z,y);
         int equ1 = Equation1(z);
-        int equ3 = Equation2(y);
-        Debug.Log(equ1+"x"+equ3+"="+result);
+        int equ2 = Equation2(y);
+        Debug.Log(equ1+"x"+equ2+"="+result);
       } 
     }
 
